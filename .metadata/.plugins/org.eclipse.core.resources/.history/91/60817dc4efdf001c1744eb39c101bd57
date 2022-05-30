@@ -1,0 +1,5 @@
+
+public interface Print {
+	public abstract void printWeak();
+	public abstrack void printStrong();
+}
